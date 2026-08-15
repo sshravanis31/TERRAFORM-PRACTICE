@@ -1,0 +1,16 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.pem
+*.key
+*.crt
+*.pub
+terraform.tfvars
+*.tfvars
+.terraform.lock.hcl
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.backup
